@@ -9,3 +9,7 @@ pip install -r requierments.txt
   
 You can store your files in the directory "RAW_DATA". Then update the "config.json" in the directory "config". This version does not support PDA analyses, just RF.  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IceGuyMusic/BFLS/master)
+
+> Good to know:
+> You can convert the .lcd files in ASCII Files using the folder menu in LabSolution - Post analyses. Select the files with the mouse and open "convert to ASCII" with the right - click. 
+  
