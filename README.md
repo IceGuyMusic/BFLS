@@ -1,7 +1,7 @@
 # BFLS
 ## BFLS (Bot for LabSolutions)
-''' bash
+``` bash
 pip install pyautogui
 pip install opencv-python
-'''
+```
 
